@@ -11,3 +11,4 @@ search_box.send_keys(Keys.RETURN)  # Enterキーを送信して検索を実行
 # 結果ページで何か操作をする場合は、ここでコードを追加します。
 
 # driver.quit()  # ブラウザを閉じて終了
+print("Done!")
