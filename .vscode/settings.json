@@ -1,4 +1,5 @@
 {
   "commentTranslate.source": "Bing",
-  "cSpell.words": ["chromedriver"]
+  "cSpell.words": ["chromedriver"],
+  "editor.formatOnSave": true
 }
