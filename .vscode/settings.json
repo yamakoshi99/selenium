@@ -1,4 +1,11 @@
 {
   "commentTranslate.source": "Bing",
-  "cSpell.words": ["chromedriver"]
+  "cSpell.words": ["chromedriver"],
+"editor.formatOnSave": true,
+"python.testing.pytestArgs": [
+    "."
+],
+"python.testing.unittestEnabled": false,
+"python.testing.pytestEnabled": true,
+"commentTranslate.targetLanguage": "ja"
 }
