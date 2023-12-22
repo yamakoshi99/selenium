@@ -1,6 +1,7 @@
 {
   "commentTranslate.source": "Bing",
   "cSpell.words": ["chromedriver"],
+<<<<<<< HEAD
 "editor.formatOnSave": true,
 "python.testing.pytestArgs": [
     "."
@@ -8,4 +9,7 @@
 "python.testing.unittestEnabled": false,
 "python.testing.pytestEnabled": true,
 "commentTranslate.targetLanguage": "ja"
+=======
+  "editor.formatOnSave": true
+>>>>>>> 726ed342f220812439b8002560e3fb15eaec526b
 }

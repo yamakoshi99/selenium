@@ -16,6 +16,10 @@ wait = WebDriverWait(driver, 10)
 first_result = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "h3")))
 # 最初の検索結果をクリック
 first_result.click()
+<<<<<<< HEAD
+=======
+
+>>>>>>> 726ed342f220812439b8002560e3fb15eaec526b
 # その他の操作を行うコードをここに追加
 # 最後にブラウザを閉じる
 # driver.quit()
