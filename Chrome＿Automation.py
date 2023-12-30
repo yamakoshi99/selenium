@@ -12,4 +12,4 @@ driber.get("https://www.library.chiyoda.tokyo.jp/")
 
 e1 = driber.find_element_by_class_name("schedule-list01__text")
 print(e1.text)
-
+print(e1.get_attribute("href"))
